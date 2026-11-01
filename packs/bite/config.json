@@ -9,7 +9,8 @@
   },
   "serveur": {
     "adresse": "26.45.165.143",
-    "port": 2528
+    "port": 2528,
+    "aide": ""
   },
   "inclure": [],
   "premierLancement": [
