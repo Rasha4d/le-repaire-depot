@@ -1,0 +1,37 @@
+{
+  "id": "bite",
+  "nom": "Bite",
+  "sousTitre": "",
+  "accroche": "",
+  "auteur": "Rasha4d",
+  "memoire": {
+    "conseille": 6144
+  },
+  "serveur": {
+    "adresse": "26.45.165.143",
+    "port": 2528
+  },
+  "inclure": [],
+  "premierLancement": [
+    "options.txt",
+    "config/oculus.properties",
+    "config/xaero/**"
+  ],
+  "original": [],
+  "exclure": [],
+  "theme": {
+    "police": "cinzel",
+    "accent": "#7aa2ff",
+    "accent2": "#3d5bd9",
+    "ciel": [
+      "#060914",
+      "#0c1530",
+      "#15234d"
+    ],
+    "brume": "#2c3040",
+    "sol": "#04060c",
+    "lune": true,
+    "particules": "cendres",
+    "lueur": "#7aa2ff"
+  }
+}
