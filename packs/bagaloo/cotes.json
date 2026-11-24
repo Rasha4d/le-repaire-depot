@@ -38,7 +38,7 @@
   "apothic_attributes": "both",
   "placebo": "both",
   "appleskin": "both",
-  "athena": "both",
+  "athena": "client",
   "attributesetter": "both",
   "curios": "both",
   "azurelib": "both",
@@ -46,7 +46,7 @@
   "balm": "both",
   "bda": "both",
   "betteradvancedtooltips": "both",
-  "betterclouds": "both",
+  "betterclouds": "client",
   "yet_another_config_lib_v3": "both",
   "playeranimator": "both",
   "cloth_config": "both",
@@ -88,7 +88,7 @@
   "diegesis": "both",
   "dimdoors": "both",
   "dog": "both",
-  "drippyloadingscreen": "both",
+  "drippyloadingscreen": "client",
   "konkrete": "both",
   "fancymenu": "both",
   "dynamic_fps": "client",
@@ -224,7 +224,7 @@
   "sculkhorde": "both",
   "valkyrienskies": "both",
   "playerrevive": "both",
-  "sodium": "both",
+  "sodium": "client",
   "spark": "both",
   "stellarview": "client",
   "enhancedcelestials": "client",
@@ -251,5 +251,6 @@
   "witchery": "both",
   "openpartiesandclaims": "both",
   "xaerolib": "both",
-  "xaerobetterpvp": "both"
+  "xaerobetterpvp": "both",
+  "carryon": "both"
 }
