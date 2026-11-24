@@ -51,7 +51,11 @@
         "type": "neoforge",
         "version": "21.1.267"
       },
-      "serveur": null
+      "serveur": {
+        "adresse": "26.45.165.143",
+        "port": 2528,
+        "aide": ""
+      }
     },
     {
       "id": "bite",

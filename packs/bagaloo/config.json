@@ -29,5 +29,10 @@
     "lune": true,
     "particules": "braises",
     "lueur": "#ff7a1a"
+  },
+  "serveur": {
+    "adresse": "26.45.165.143",
+    "port": 2528,
+    "aide": ""
   }
 }
