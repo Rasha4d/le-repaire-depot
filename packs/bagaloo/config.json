@@ -1,0 +1,33 @@
+{
+  "id": "bagaloo",
+  "nom": "BAGALOO",
+  "sousTitre": "",
+  "accroche": "",
+  "auteur": "Rasha4d",
+  "memoire": {
+    "conseille": 6144
+  },
+  "inclure": [],
+  "premierLancement": [
+    "options.txt",
+    "config/oculus.properties",
+    "config/xaero/**"
+  ],
+  "original": [],
+  "exclure": [],
+  "theme": {
+    "police": "pirata",
+    "accent": "#ff7a1a",
+    "accent2": "#c81e1e",
+    "ciel": [
+      "#05060f",
+      "#0b1026",
+      "#1a1430"
+    ],
+    "brume": "#3a3550",
+    "sol": "#03040a",
+    "lune": true,
+    "particules": "braises",
+    "lueur": "#ff7a1a"
+  }
+}
