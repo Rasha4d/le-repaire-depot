@@ -8,25 +8,26 @@
       "sousTitre": "",
       "accroche": "",
       "auteur": "Rasha4d",
-      "build": 2,
-      "version": "1.2.1+2",
-      "date": "2026-11-24T13:56:08.744Z",
+      "build": 3,
+      "version": "1.2.1+3",
+      "date": "2026-11-27T04:50:25.602Z",
       "notes": "",
       "changements": {
         "ajoutes": [
-          "mods/carryon-neoforge-1.21.1-2.2.6.13.jar"
+          "mods/ironfurnaces-neoforge-1.21.1-4.3.2.jar"
         ],
         "retires": [],
         "modifies": [
-          "config/everycomp-entries.toml",
+          "config/infernalmobs.cfg",
           "config/iris.properties",
-          "config/jade/plugins.json",
-          "config/jade/sort-order.json",
+          "config/jei/client/recipe-category-sort-order.ini",
+          "config/sizeable_foliage.properties",
+          "config/thematic/discoveries.json",
           "options.txt"
         ]
       },
-      "taille": 1126110873,
-      "manifeste": "packs/bagaloo/2.json",
+      "taille": 1126688227,
+      "manifeste": "packs/bagaloo/3.json",
       "image": null,
       "theme": {
         "police": "pirata",
